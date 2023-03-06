@@ -1,3 +1,5 @@
+// Take user name and greet the user.
+// very basic first program.
 #include <iostream>
 
 using namespace std;
